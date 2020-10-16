@@ -1,7 +1,7 @@
 # Cloud Social
 Openfire Meetings with breakout rooms hosted on GitPages
 
-Ìpàdé uses static web pages hosted here on Github to run a custom version of jitsi-meet. It works with both Jitsi-Meet and Openfire Meetings hosted instances, but defaults to meet.jit.si
+Cloud Social uses static web pages hosted here on Github to run a custom version of jitsi-meet. It works with both Jitsi-Meet and Openfire Meetings hosted instances, but defaults to meet.jit.si
 
 ## Demo
 Open a browser window/tabs instances and point it at https://kwu2u.github.io/cloud-social/index.html?room=AnyRoomNameYouLike
